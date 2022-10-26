@@ -1,12 +1,4 @@
 {
-  "ban_database": "3.0.1",
-  "nodelogger": "3.7.3",
-  "verbatim": "1.0.1",
+  "antiping": "1.0.0",
   "multibot": "1.1.0",
-  "imageengine": "1.4.0",
-  "formssystem": "1.0.3",
-  "communitysite": "1.0.1",
-  "portfolio": "1.0.0",
-  "boards": "1.0.0",
-  "paymentsystem": "1.0.0"
 }
